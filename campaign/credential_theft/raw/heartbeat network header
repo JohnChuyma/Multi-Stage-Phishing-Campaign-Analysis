@@ -1,0 +1,84 @@
+Request URL  
+https://vguvi.vu/google/rsvp/update_online.php  
+Request Method  
+GET  
+Status Code  
+200 OK  
+Remote Address  
+172.67.187.144:443  
+Referrer Policy  
+strict-origin-when-cross-origin  
+alt-svc  
+h3=":443"; ma=86400  
+cache-control  
+no-store, no-cache, must-revalidate  
+cf-cache-status  
+DYNAMIC  
+cf-ray  
+<CF_RAY_ID>
+content-encoding  
+zstd  
+content-type  
+text/html; charset=UTF-8  
+date  
+<TIMESTAMP>
+expires  
+<TIMESTAMP>
+nel  
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}  
+pragma  
+no-cache  
+priority  
+u=1,i  
+report-to  
+{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DjeHdSc%2FzHZbKVnkj8ZiTbeiVjnh5sYBqNkyiCZU4JHEB72yHZnz2VlxEdUn6IRbnXpcJLI0Tu9HRP1%2B%2FIIxKNmNiuw4MTYnv%2BjU1F7scGS94Fjhgkc%2FkVUDxw%3D%3D"}]}  
+server  
+cloudflare  
+server-timing  
+cfExtPri  
+:authority  
+vguvi.vu  
+:method  
+GET  
+:path  
+/google/rsvp/update_online.php
+:scheme  
+https  
+accept  
+*/*  
+accept-encoding  
+gzip, deflate, br, zstd  
+accept-language  
+en-US,en;q=0.9  
+cookie  
+PHPSESSID=<ID>; cf_chl_rc_ni=1; cf_clearance=; 
+priority  
+u=1, i  
+referer  
+https://vguvi.vu/google/rsvp/pages/login.php?
+sec-ch-ua  
+"Microsoft Edge";v="149", "Chromium";v="149", "Not)A;Brand";v="24"  
+sec-ch-ua-arch  
+"x86"  
+sec-ch-ua-bitness  
+"64"  
+sec-ch-ua-full-version  
+"149.0.4022.98"  
+sec-ch-ua-full-version-list  
+"Microsoft Edge";v="149.0.4022.98", "Chromium";v="149.0.7827.201", "Not)A;Brand";v="24.0.0.0"  
+sec-ch-ua-mobile  
+?0  
+sec-ch-ua-model  
+""  
+sec-ch-ua-platform  
+"Windows"  
+sec-ch-ua-platform-version   
+"19.0.0"  
+sec-fetch-dest  
+empty  
+sec-fetch-mode  
+cors   
+sec-fetch-site  
+same-origin ######  
+user-agent  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0  

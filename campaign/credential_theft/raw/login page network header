@@ -1,0 +1,204 @@
+Request URL  
+https://vguvi.vu/google/rsvp/pages/login.php 
+Request Method  
+POST  
+Status Code  
+302 Found  
+Remote Address  
+172.67.187.144:443   
+Referrer Policy  
+strict-origin-when-cross-origin  
+alt-svc  
+h3=":443"; ma=86400  
+cache-control  
+no-store, no-cache, must-revalidate  
+cf-cache-status  
+DYNAMIC  
+cf-ray  
+<CF_RAY_ID>  
+content-type  
+text/html; charset=UTF-8  
+date  
+<TIMESTAMP>
+expires  
+<TIMESTAMP>
+location  
+password.php  
+nel  
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}  
+pragma  
+no-cache  
+priority  
+u=0,i  
+report-to  
+{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6cES3P3CZJUTSs9LUnapcVqd5T2Au87hhQ%2F9pdnDL2DC7rEllHnpyHf5xS9LuaEXDMywjVTzINdl%2B8P0PkT7EH4uQ9cY65TV8Bb4H3%2F4OlbK9f3bpc7bY383Ng%3D%3D"}]}  
+server  
+cloudflare  
+server-timing  
+cfCacheStatus;desc="DYNAMIC"  
+server-timing  
+cfEdge;dur=4,cfOrigin;dur=618  
+server-timing  
+cfExtPri  
+:authority  
+vguvi.vu  
+:method  
+POST  
+:path  
+/google/rsvp/pages/login.php  
+:scheme  
+https  
+accept  
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7  
+accept-encoding  
+gzip, deflate, br, zstd  
+accept-language  
+en-US,en;q=0.9  
+cache-control  
+max-age=0  
+content-length  
+10  
+content-type  
+application/x-www-form-urlencoded  
+cookie  
+PHPSESSID=<REDACTED> cf_clearance=<REDACTED>  
+origin  
+https://vguvi.vu  
+priority  
+u=0, i   
+referer  
+https://vguvi.vu/google/rsvp/pages/login.php?  
+sec-ch-ua  
+"Microsoft Edge";v="149", "Chromium";v="149", "Not)A;Brand";v="24"  
+sec-ch-ua-arch  
+"x86"  
+sec-ch-ua-bitness  
+"64"  
+sec-ch-ua-full-version  
+"149.0.4022.98"  
+sec-ch-ua-full-version-list  
+"Microsoft Edge";v="149.0.4022.98", "Chromium";v="149.0.7827.201", "Not)A;Brand";v="24.0.0.0"  
+sec-ch-ua-mobile  
+?0  
+sec-ch-ua-model  
+""  
+sec-ch-ua-platform  
+"Windows"  
+sec-ch-ua-platform-version  
+"19.0.0"  
+sec-fetch-dest  
+document  
+sec-fetch-mode  
+navigate  
+sec-fetch-site  
+same-origin  
+sec-fetch-user  
+?1  
+upgrade-insecure-requests  
+1  
+user-agent  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0  
+
+---
+## capture 2
+
+Request URL  
+https://vguvi.vu/google/rsvp/pages/password.php?  
+Request Method  
+POST  
+Status Code  
+302 Found  
+Remote Address  
+172.67.187.144:443  
+Referrer Policy  
+strict-origin-when-cross-origin  
+alt-svc  
+h3=":443"; ma=86400  
+cache-control  
+no-store, no-cache, must-revalidate  
+cf-cache-status  
+DYNAMIC  
+cf-ray  
+<CF_RAY_ID>  
+content-type  
+text/html; charset=UTF-8  
+date  
+<TIMESTAMP>
+expires  
+<TIMESTAMP>
+location  
+waiting.php  
+nel  
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}  
+pragma  
+no-cache  
+priority   
+u=0,i  
+report-to  
+{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=izKGqIZ%2BWD9URGJTNVvseIaZXJ9MXmv%2Bqi9GqovzFCTUjfOxCi8W9MtTPXFogAl%2BOkF6wAlmMT2caC9QSwCZvKYReSHoIjzrzM8oO9CYsQBFezgBSw4VWTrtiA%3D%3D"}]}  
+server  
+cloudflare  
+server-timing  
+cfCacheStatus;desc="DYNAMIC"  
+server-timing  
+cfEdge;dur=3,cfOrigin;dur=331  
+server-timing  
+cfExtPri  
+:authority  
+vguvi.vu  
+:method  
+POST   
+:path  
+/google/rsvp/pages/password.php  
+:scheme  
+https  
+accept  
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7  
+accept-encoding  
+gzip, deflate, br, zstd  
+accept-language  
+en-US,en;q=0.9   
+cache-control  
+max-age=0  
+content-length  
+12  
+content-type  
+application/x-www-form-urlencoded  
+cookie  
+PHPSESSID=<REDACTED> cf_clearance=<REDACTED>  
+origin  
+https://vguvi.vu  
+priority  
+u=0, i  
+referer  
+https://vguvi.vu/google/rsvp/pages/password.php  
+sec-ch-ua  
+"Microsoft Edge";v="149", "Chromium";v="149", "Not)A;Brand";v="24"  
+sec-ch-ua-arch  
+"x86"  
+sec-ch-ua-bitness   
+"64"  
+sec-ch-ua-full-version  
+"149.0.4022.98"  
+sec-ch-ua-full-version-list  
+"Microsoft Edge";v="149.0.4022.98", "Chromium";v="149.0.7827.201", "Not)A;Brand";v="24.0.0.0"  
+sec-ch-ua-mobile  
+?0  
+sec-ch-ua-model  
+""  
+sec-ch-ua-platform  
+"Windows"  
+sec-ch-ua-platform-version  
+"19.0.0"  
+sec-fetch-dest  
+document  
+sec-fetch-mode  
+navigate  
+sec-fetch-site  
+same-origin   
+sec-fetch-user   
+?1  
+upgrade-insecure-requests  
+1  
+user-agent  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0   Safari/537.36 Edg/149.0.0.0  
