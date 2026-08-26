@@ -15,7 +15,7 @@ An interesting finding was that the observed MSP360 installer hash has been dist
 | July 3, 2026 | Krishimarket | Campaign infrastructure shifted from credential harvesting to malware delivery. Victims encountered an RSVP themed phishing email that took them to a fake CAPTCHA workflow that profiled visitors and notified operators through Telegram while a Signed MSP360 RMM installer automatically downloaded from Cloudflare R2 object storage and delivered through a customized NSIS wrapper. |
 | July 6, 2026 | Krishimarket | yet another phishing email was sent out pointing to krishimarket but the body of the email was supposedly from "The Adobe Document Cloud Team" compelling users to click a link to view a document |
 | July 8, 2026 | Defensive Response | University send another adivsory warning users about rsvp themed phishing emails and urging users to set up 2fa |
-| July 9, 2026 | Krishimarket | yet another phishing email was sent out pointing to krishimarket, This time the RSVP theme was kept in the body like what would be expected though the lnik no longer used s.gy shortner and isntead was the full krishimarket link of krishimarket<.>com/rsvp/invitation/ |
+| July 9, 2026 | Krishimarket | yet another phishing email was sent out pointing to krishimarket, This time the RSVP theme was kept in the body like what would be expected though the link no longer used s.gy shortner and isntead was the full krishimarket link of krishimarket<.>com/rsvp/invitation/ |
 
 ---
 
